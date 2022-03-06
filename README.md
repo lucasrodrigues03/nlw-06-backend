@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img alt="Preview" src="./.github/preview.png">
+  <img alt="Preview" src="./image/nlw-06-backend.png">
 </p>
 
 ## ✨ Tecnologias
